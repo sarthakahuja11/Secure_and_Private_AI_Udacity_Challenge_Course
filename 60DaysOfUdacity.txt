@@ -1,0 +1,15 @@
+Day 1: Just started with the challenge today as was busy with work. Hope it is never to late! Started with Lesson 2 today after completing a previous Coursera course. Also joined a study group #sg_bangalore and hopefully fix a meeting in the coming days as discussed in the first virtual meetup! Hopefully can get things fast on track soon! #60daysofudacity 
+
+Day 5: Could not catch up much of the course, as was studying for an upcoming python interview. But did my part in #jobs channel, by taking interviews of fellow mates. Hope it helped them!
+
+Day 7: Completed my Coursera Deeplearning.ai course 3. Read some machine learning blogs for the same. Also, brushed upon deep learning basics for an upcoming interview #60daysofudacity 
+
+Day 8: (17/07/2019) Added few projects and official #60daysofUdacity repository on github! Prepared and gave few technical Deep learning interviews, hoping to complete lesson 2 soon. Link to githujb repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+Day 9: (18/07/2019) Worked to complete lesson 2 notebooks. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+Day 10: (19/07/2019) Followed up my work in lesson 2 notebooks. Referred some videos for the same. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+Day 11: (20/07/2019) Did a previous Coursera course. Studied for an upcoming ml interview.
+
+Day 12: (21/07/2019) Completed my initial notebook in lesson 2. Started working on following notebooks too. Read some blogs for better understanding. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
