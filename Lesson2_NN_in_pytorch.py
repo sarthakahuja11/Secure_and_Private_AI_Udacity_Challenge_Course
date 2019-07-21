@@ -23,3 +23,9 @@ transform = transforms.Compose([transforms.ToTensor(),
 # Download and load the training data
 trainset = datasets.MNIST('~/.pytorch/MNIST_data/', download=True, train=True, transform=transform)
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=64, shuffle=True)
+
+dataiter = iter(trainloader)
+images, labels = dataiter.next()
+print(type(images))
+print(images.shape)
+print(labels.shape)
