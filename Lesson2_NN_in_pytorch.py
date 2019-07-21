@@ -1,3 +1,5 @@
+##NOTEBOOK 2 LESSON 2
+
 # Import necessary packages
 
 %matplotlib inline
@@ -29,3 +31,11 @@ images, labels = dataiter.next()
 print(type(images))
 print(images.shape)
 print(labels.shape)
+
+plt.imshow(images[1].numpy().squeeze(), cmap='Greys_r');
+
+
+# Your solution
+
+
+out = # output of your network, should have shape (64,10)
