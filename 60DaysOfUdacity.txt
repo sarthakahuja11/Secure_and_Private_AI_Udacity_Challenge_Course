@@ -14,6 +14,7 @@ Day 11: (20/07/2019) Did a previous Coursera course. Studied for an upcoming ml 
 
 Day 12: (21/07/2019) Completed my initial notebook in lesson 2. Started working on following notebooks too. Read some blogs for better understanding. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
-Day 13: (22/07/2019) Break Da
+Day 13: (22/07/2019) Break Day
 
+Day 14: (23/07/2019) Working on other notebooks in lesson 2. Watched some youtube videos for pytorch overall understanding: https://www.youtube.com/watch?v=DmI58jz2i6w. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
