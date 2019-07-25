@@ -36,10 +36,6 @@ y1 = activation(torch.mm(features,W1)+B1)
 y2 = activation(torch.mm(y1,W2)+B2)
 print(y2)
 
-
-
-
-
 ----------------
 
 import numpy as np

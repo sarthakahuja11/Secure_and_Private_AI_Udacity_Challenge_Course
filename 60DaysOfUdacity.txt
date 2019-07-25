@@ -18,3 +18,7 @@ Day 13: (22/07/2019) Break Day
 
 Day 14: (23/07/2019) Working on other notebooks in lesson 2. Watched some youtube videos for pytorch overall understanding: https://www.youtube.com/watch?v=DmI58jz2i6w. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
+Day 15: (24*/07/2019) Work further on lesson 2 notebooks. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+Day 16: (25/07/2019) Work further on lesson 2 notebooks. Made a lot of progress on notebook 2. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
