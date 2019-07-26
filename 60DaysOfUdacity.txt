@@ -22,3 +22,7 @@ Day 15: (24*/07/2019) Work further on lesson 2 notebooks. Adding and documenting
 
 Day 16: (25/07/2019) Work further on lesson 2 notebooks. Made a lot of progress on notebook 2. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
+
+Day 17: (26/07/2019) Wasnt able to do much progess due to ill health. Did few exercises on notebook 2 and few videos of lesson 2. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+

@@ -76,6 +76,7 @@ print(probabilities.sum(dim=1))
 print(probabilities)
 
 ##################################
+#  NETWORK IMPORT NN
 
 from torch import nn
 
