@@ -26,5 +26,4 @@ Day 17: (26/07/2019) Wasnt able to do much progess due to ill health. Did few ex
 
 Day 18: (27/07/2019) Almost completed notebook 2 of lesson 2. Read few medium blogs shared on slack for better understanding. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
-
-
+Day 19: (28/07/2019) Did quiz 2 by #jobs , Nearing the end of notebook 2 of lesson 2. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
