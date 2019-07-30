@@ -29,3 +29,5 @@ Day 18: (27/07/2019) Almost completed notebook 2 of lesson 2. Read few medium bl
 Day 19: (28/07/2019) Did quiz 2 by #jobs , Nearing the end of notebook 2 of lesson 2. Adding and documenting them to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
 
 Day 20: (29/07/2019) Did some preparation for upcoming ml interview. Adding and documenting updates to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
+
+Day 21: (30/07/2019) Read few articles about uses of AI in privacy. Also was working on my coursera course by deeplearning.ai. Adding and documenting updates to github repository: https://github.com/sarthakahuja11/Secure_and_Private_AI_Udacity_Challenge_Course
